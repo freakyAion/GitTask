@@ -1,4 +1,9 @@
 html{
-    background-color: black;
+    background-color: darkblue;
     color: white;
+}
+
+h1{
+    color: pink;
+    text-decoration: uppercase;
 }
